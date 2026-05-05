@@ -1,0 +1,42 @@
+[
+    {
+        "question": "APEX_AIRCRAFT MARKETs ROBIN_RANGE và ROBIN_RANGE được FORMERLY_IDENTICAL_TO AVIONS_ROBIN_DR400_4_SEATER. Mô hình AVIONS_ROBIN_DR400_4_SEATER là gì?",
+        "ground_truth": "AVIONS_ROBIN_DR400_4_SEATER"
+    },
+    {
+        "question": "ROBIN_R2000 được TRANSFERRED_TO đến ALPHA_AVIATION_NEW_ZEALAND và ROBIN_R2000_TYPE_CERTIFICATES được TRANSFERRED_TO ALPHA_AVIATION_NEW_ZEALAND. Ai là người nhận cả hai chuyển giao này?",
+        "ground_truth": "ALPHA_AVIATION_NEW_ZEALAND"
+    },
+    {
+        "question": "CAP_RANGE được FORMERLY_IDENTICAL_TO MUDRY_CAP_AVIATION_CAP_10 và CAP_RANGE được FORMERLY_IDENTICAL_TO MUDRY_CAP_AVIATION_CAP_232. Hãy nêu các mô hình được FORMERLY_IDENTICAL_TO CAP_RANGE.",
+        "ground_truth": "MUDRY_CAP_AVIATION_CAP_10; MUDRY_CAP_AVIATION_CAP_232"
+    },
+    {
+        "question": "ROBIN_R2000 đã được TRANSFERRED_TO ALPHA_AVIATION_NEW_ZEALAND và ROBIN_R2000 được MARKETED_AS ALPHA_2000. Tên được dùng để MARKETING ROBIN_R2000 là gì?",
+        "ground_truth": "ALPHA_2000"
+    },
+    {
+        "question": "APEX_AIRCRAFT LIQUIDATED_ON SEPTEMBER_2008 và ACQUIRED_BY CEAPR. Ai đã mua APEX_AIRCRAFT?",
+        "ground_truth": "CEAPR"
+    },
+    {
+        "question": "APEX_AIRCRAFT ACQUIRED_BY CEAPR và APEX_AIRCRAFT REBRANDED_AS ROBIN_AIRCRAFT. Thương hiệu mới khi được rebranded là gì?",
+        "ground_truth": "ROBIN_AIRCRAFT"
+    },
+    {
+        "question": "NONCOHERENT_SPACE_TIME_CODES PROPOSED_BY TOM_MARZETTA và BERTRAND_HOCHWALD. Ai là những người đã đề xuất NONCOHERENT_SPACE_TIME_CODES?",
+        "ground_truth": "TOM_MARZETTA; BERTRAND_HOCHWALD"
+    },
+    {
+        "question": "ADA_LOVELACE INTERACTED_WITH CHARLES_BABBAGE và CHARLES_BABBAGE DESIGNED ANALYTICAL_ENGINE. Máy tính nào được thiết kế bởi Charles Babbage mà ADA Lovelace đã tương tác?",
+        "ground_truth": "ANALYTICAL_ENGINE"
+    },
+    {
+        "question": "Alfred Hitchcock works as FILM_DIRECTOR, SCREENWRITER, PRODUCER, EDITOR. Các vai trò của ông trong ngành điện ảnh là gì?",
+        "ground_truth": "FILM_DIRECTOR; SCREENWRITER; PRODUCER; EDITOR"
+    },
+    {
+        "question": "Aruba IS_A CONSTITUENT_COUNTRY_OF_THE_KINGDOM_OF_THE_NETHERLANDS và Aruba BECAME_CONSTITUENT_COUNTRY_IN_YEAR 1986. Aruba trở thành nước thành phần của nước nào?",
+        "ground_truth": "Kingdom_of_the_NETHERLANDS"
+    }
+]
