@@ -1,0 +1,11 @@
+neo4j
+openai
+pandas
+pyarrow
+chromadb
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-text-splitters

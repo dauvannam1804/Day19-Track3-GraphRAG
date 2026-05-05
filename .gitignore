@@ -7,3 +7,4 @@ reports/*.log
 data/*.json
 !data/questions.json
 !data/triples.json
+data/*.parquet
